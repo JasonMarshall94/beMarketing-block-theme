@@ -21,5 +21,5 @@
  */
 
 /* eslint-disable no-console */
-console.log( 'Hello World! (from beblocks-header block)' );
+console.log("Hello World! (from beblocks-footer block)");
 /* eslint-enable no-console */

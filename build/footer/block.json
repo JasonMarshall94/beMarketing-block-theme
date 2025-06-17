@@ -3,7 +3,7 @@
   "apiVersion": 3,
   "name": "beblocks/footer",
   "version": "0.1.0",
-  "title": "Footer",
+  "title": "beFooter",
   "category": "widgets",
   "icon": "smiley",
   "description": "Example block scaffolded with Create Block tool.",
